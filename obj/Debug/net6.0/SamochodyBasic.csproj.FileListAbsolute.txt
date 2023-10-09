@@ -1,0 +1,14 @@
+C:\Users\2999561\Source\Repos\SamochodyBasic\bin\Debug\net6.0\SamochodyBasic.exe
+C:\Users\2999561\Source\Repos\SamochodyBasic\bin\Debug\net6.0\SamochodyBasic.deps.json
+C:\Users\2999561\Source\Repos\SamochodyBasic\bin\Debug\net6.0\SamochodyBasic.runtimeconfig.json
+C:\Users\2999561\Source\Repos\SamochodyBasic\bin\Debug\net6.0\SamochodyBasic.dll
+C:\Users\2999561\Source\Repos\SamochodyBasic\bin\Debug\net6.0\SamochodyBasic.pdb
+C:\Users\2999561\Source\Repos\SamochodyBasic\obj\Debug\net6.0\SamochodyBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2999561\Source\Repos\SamochodyBasic\obj\Debug\net6.0\SamochodyBasic.AssemblyInfoInputs.cache
+C:\Users\2999561\Source\Repos\SamochodyBasic\obj\Debug\net6.0\SamochodyBasic.AssemblyInfo.cs
+C:\Users\2999561\Source\Repos\SamochodyBasic\obj\Debug\net6.0\SamochodyBasic.csproj.CoreCompileInputs.cache
+C:\Users\2999561\Source\Repos\SamochodyBasic\obj\Debug\net6.0\SamochodyBasic.dll
+C:\Users\2999561\Source\Repos\SamochodyBasic\obj\Debug\net6.0\refint\SamochodyBasic.dll
+C:\Users\2999561\Source\Repos\SamochodyBasic\obj\Debug\net6.0\SamochodyBasic.pdb
+C:\Users\2999561\Source\Repos\SamochodyBasic\obj\Debug\net6.0\SamochodyBasic.genruntimeconfig.cache
+C:\Users\2999561\Source\Repos\SamochodyBasic\obj\Debug\net6.0\ref\SamochodyBasic.dll
